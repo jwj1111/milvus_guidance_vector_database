@@ -4,16 +4,16 @@
 
 ## 目录 (Table of Contents)
 
-* [项目介绍](https://www.google.com/search?q=%23-%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D)
-* [环境准备](https://www.google.com/search?q=%23-%E7%8E%AF%E5%A2%83%E5%87%86%E5%A4%87)
-* [快速开始](https://www.google.com/search?q=%23-%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B)
-* [核心功能模块](https://www.google.com/search?q=%23-%E6%A0%B8%E5%BF%83%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9D%97)
-  * [1. 数据与权限管理](https://www.google.com/search?q=%231-%E6%95%B0%E6%8D%AE%E4%B8%8E%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86)
-  * [2. 粗召回 (Coarse Retrieval)](https://www.google.com/search?q=%232-%E7%B2%97%E5%8F%AC%E5%9B%9E-coarse-retrieval)
-  * [3. 精排 (Fine Reranking)](https://www.google.com/search?q=%233-%E7%B2%BE%E6%8E%92-fine-reranking)
-  * [4. 便捷模型调用](https://www.google.com/search?q=%234-%E4%BE%BF%E6%8D%B7%E6%A8%A1%E5%9E%8B%E8%B0%83%E7%94%A8)
-* [可视化工具](https://www.google.com/search?q=%23-%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B7%A5%E5%85%B7)
-* [参考文档](https://www.google.com/search?q=%23-%E5%8F%82%E8%80%83%E6%96%87%E6%A1%A3)
+* [项目介绍]
+* [环境准备]
+* [快速开始]
+* [核心功能模块]
+  * [1. 数据与权限管理]
+  * [2. 粗召回 (Coarse Retrieval)]
+  * [3. 精排 (Fine Reranking)]
+  * [4. 便捷模型调用]
+* [可视化工具]
+* [参考文档]
 
 ---
 
@@ -122,3 +122,5 @@ pip install peft FlagEmbedding
 
 * [Milvus 官方文档](https://milvus.io/docs)
 * [HuggingFace TEI 部署指南](https://huggingface.co/docs/text-embeddings-inference)
+* [向量数据库Milvus使用说明]参考附件PDF
+* [HuggingFace TEI Docker部署]参考附件PDF
